@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mujtaba Siddiqui</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujtaba-siddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="mujtaba-siddiqui" /> </p>
